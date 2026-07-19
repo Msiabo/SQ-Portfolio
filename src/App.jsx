@@ -17,7 +17,7 @@ function App() {
 
       <Navbar />
 
-      <Hero />
+      <Hero/>
 
       <About />
 
